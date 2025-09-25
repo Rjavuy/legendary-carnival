@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://alukkart.github.io/refactored-octo-funicular)
+- [Публичная страница на GitHub Pages](https://Rjavuy.github.io/legendary-carnival)
